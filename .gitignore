@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Original/raw datasets
+data/healthcare_dataset.csv
+data/ml/heart_disease.zip
+data/ml/heart_disease/
