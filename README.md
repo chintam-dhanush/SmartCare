@@ -98,6 +98,7 @@ The Random Forest model achieved approximately **90.16% accuracy** on the held-o
           ▼                           ▼
    Streamlit Dashboard          Disease Prediction
 
+```
 
 # 🚀 Run SmartCare Locally
 
